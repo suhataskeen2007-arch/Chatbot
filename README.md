@@ -39,6 +39,6 @@ python chatbot.py
 
 The purpose of this project is to practise Python programming, conditional statements, loops, lists, dictionaries, functions and user input.
 
-Author
+# Author
 
 Suha Taskeen
